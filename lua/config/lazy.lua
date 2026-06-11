@@ -52,6 +52,7 @@ require("lazy").setup({
   },
 })
 
+
 require("lspconfig").pylsp.setup({
   settings = {
     pylsp = {
